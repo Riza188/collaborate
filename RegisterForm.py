@@ -1,4 +1,4 @@
-# register form
+# Register Form
 
 users = []  # store all registered users here
 
